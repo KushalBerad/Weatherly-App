@@ -1,4 +1,4 @@
-ADD YOUR API KEY IN .env FILE
+ADD YOUR API KEY IN .env FILE,
 CHECK THE NODE PACKAGES WHETHER AVAILABLE OR NOT
 RUN THE PROJECT
 <img width="1919" height="875" alt="Screenshot 2025-09-22 194539" src="https://github.com/user-attachments/assets/0f527a78-7dfe-444f-accc-18589925f3b6" />
